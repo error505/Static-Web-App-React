@@ -18,7 +18,7 @@ const Sidebar = ({ isSidebarClosed, toggleSidebar }) => {
       </div>
       <nav className="navigation">
         <ul>
-        <li><a href="/error505" className="home-button"><FontAwesomeIcon icon="home" /><span> Home</span></a></li>
+        <li><a href="/" className="home-button"><FontAwesomeIcon icon="home" /><span> Home</span></a></li>
           <li>
             <ScrollLink
               to="what-i-do"
