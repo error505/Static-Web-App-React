@@ -8,15 +8,15 @@ const Resume = () => {
     <div className="resume">
       {/* Header Section */}
       <div className="resume-header">
-        <h1>Igor Iric</h1>
-        <p>Senior Azure Cloud Solutions Architect</p>
+        <h1>Paul Middleton</h1>
+        <p>Enterprise Cloud Solutions Architect</p>
       </div>
 
       {/* Contact Information */}
       <div className="resume-contact">
-        <p><FontAwesomeIcon icon={faEnvelope} /> iric</p>
+        <p><FontAwesomeIcon icon={faEnvelope} /> Paul</p>
         <p><FontAwesomeIcon icon={faPhone} /> +49173</p>
-        <p><FontAwesomeIcon icon={faMapMarkerAlt} /> Frankfurt am Main, Germany</p>
+        <p><FontAwesomeIcon icon={faMapMarkerAlt} /> Newcastle Upon Tyne, UK</p>
         <p><FontAwesomeIcon icon={faGlobe} /> <a href="https://error505.github.io/error505/" target="_blank" rel="noopener noreferrer">error505.github.io</a></p>
         <p><FontAwesomeIcon icon={['fab', 'linkedin']} /> <a href="https://www.linkedin.com/in/igor-iric/" target="_blank" rel="noopener noreferrer">linkedin.com/in/igor-iric</a></p>
         <p><FontAwesomeIcon icon={['fab', 'github']} /> <a href="https://github.com/error505" target="_blank" rel="noopener noreferrer">github.com/error505</a></p>
@@ -41,7 +41,7 @@ const Resume = () => {
       <div className="resume-content">
         <h2>Work Experience</h2>
         <div className="resume-job">
-          <h3>Senio Cloud Solutions Architect / Senior Software Engineer</h3>
+          <h3>Senio Cloud Solutions Architect</h3>
           <h4>Plain Concepts | June 2024 – Present</h4>
           <ul>
             <li>Architected and developed applications using Azure cloud services.</li>
