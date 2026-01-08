@@ -30,7 +30,7 @@ const HeroSection = () => {
                   loop
                 />
               </h2>
-              <p className="text-light mb-4">based in Frankfurt, Germany.</p>
+              <p className="text-light mb-4">Newcastle Upon Tyne, Northumberland.</p>
               <Link to="contact" smooth className="btn btn-outline-primary rounded-pill shadow-none smooth-scroll mt-2">
                 Hire Me
               </Link>

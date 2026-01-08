@@ -13,7 +13,7 @@ const ContactSection = () => {
       <div className="get-in-touch-grid">
         <div className="get-in-touch-item address">
           <i className=""></i>
-          <p>Frankfurt am Main, Germany, Hessen</p>
+          <p>Newcastle Upon Tyne, UK, Northumberland</p>
           <label>Address</label>
         </div>
         <div className="get-in-touch-item phone">

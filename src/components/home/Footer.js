@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="row">
           <div className="col-lg-6 text-center text-lg-start">
             <p className="mb-3 mb-lg-0">
-              Copyright © 2024 <a href="/" className="fw-500">Igor Iric</a>. All Rights Reserved.
+              Copyright © 2024 <a href="/" className="fw-500">Paul Middleton</a>. All Rights Reserved.
             </p>
           </div>
         </div>
