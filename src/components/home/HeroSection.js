@@ -18,10 +18,10 @@ const HeroSection = () => {
               <h2 className="text-16 fw-600 text-white mb-2 mb-md-3">
                 <Typed
                   strings={[
-                    "I'm Igor Iric",
-                    "I'm a Senior Cloud Architect.",
-                    "I'm a Senior Software Engineer.",
-                    "I'm a Book Author.",
+                    "I'm Paul Middleton",
+                    "I'm a Digital Enterprise Architect.",
+                    "I'm a Senior Platform Engineer.",
+                    "I'm a Cybersecurity consultant.",
                     "I'm a Technology Enthusiast.",
                   ]}
                   typeSpeed={40}
