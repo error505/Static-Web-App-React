@@ -7,9 +7,9 @@ import { Link as ScrollLink } from 'react-scroll';
 const Sidebar = ({ isSidebarClosed, toggleSidebar }) => {
   return (
     <aside className={`sidebar ${isSidebarClosed ? 'sidebar-closed' : ''}`}>
-      <img src="./public\static\images\avatarPM.png" alt="Paul Middleton" className="profile-image" />
+      <img src="/public/static/images/avatarPM.png" alt="Paul Middleton" className="profile-image" />
       <h2 className="sidebar-title">CaaS</h2>
-      <p className="subtitle">Hi, my name is Paul Middleton and I'm an Azure Solutions Architect Expert.</p>
+      <p className="subtitle">Hi, my name is Paul Middleton and I'm a Digital Architect.</p>
       <div className="social-icons">
         <a href="#"><FontAwesomeIcon icon={['fab', 'twitter']} /></a>
         <a href="https://www.linkedin.com/in/igor-iric"><FontAwesomeIcon icon={['fab', 'linkedin']} /></a>
