@@ -12,9 +12,9 @@ const WhatIDo = () => {
         </div>
         {/* Heading end */}
       <div className="row gy-5 about-content">
-          <h2 className="text-7 fw-600 mb-3">I'm <span className="text-primary">Igor Iric,</span> a Cloud Solutions Architect</h2>
+          <h2 className="text-7 fw-600 mb-3">I'm <span className="text-primary">Paul Middleton,</span> a Enterprise Digital Architect</h2>
          <p>
-          I have more than 15 years' experience building software for clients all over the world. As an experienced Azure Solutions Architect Expert, I am responsible for making key decisions that relate to architecture, development, and continuous improvement of the product development cycle. I have a proven track record of leading and managing teams of highly skilled and motivated developers, and providing training and workshops to enhance their skills.
+          I have more than 25 years' experience building eco-systems for clients all over the world. As an experienced Azure Solutions Architect Expert, I am responsible for making key decisions that relate to architecture, development, and continuous improvement of the product development cycle. I have a proven track record of leading and managing teams of highly skilled and motivated developers, and providing training and workshops to enhance their skills.
           </p>
         </div>
       <div className="services-grid">

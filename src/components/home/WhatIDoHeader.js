@@ -12,9 +12,9 @@ const WhatIDoHeader = () => {
   return (
     <section className="what-i-do-header" id="about">
       <div className="cta">
-        <h1>Igor Iric</h1>
+        <h1>Paul Middleton</h1>
         <p>
-          I have more than 15 years' experience building software for clients
+          I have more than 25 years' experience in developing and building eco-systems for clients
           all over the world. As an experienced Azure Solutions Architect Expert, I am responsible for making key decisions that relate to architecture, development, and continuous improvement of the product development cycle. I have a proven track record of leading and managing teams of highly skilled and motivated developers, and providing training and workshops to enhance their skills.
         </p>
         <div className="cta-buttons">
