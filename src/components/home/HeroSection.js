@@ -9,7 +9,7 @@ const HeroSection = () => {
   return (
     <section id="home" className="hero-wrap">
       <div className="hero-mask opacity-8 bg-dark"></div>
-      <div className="hero-bg parallax" style={{ backgroundImage: "url('./static/images/intro.jpg')" }}></div>
+      <div className="hero-bg parallax" style={{ backgroundImage: "url('./static/images/DT.jpg')" }}></div>
       <div className="hero-content section d-flex min-vh-100">
         <div className="container my-auto">
           <div className="row">
